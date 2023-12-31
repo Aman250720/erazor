@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "802249753504",
+    "project_id": "erazor-73960",
+    "storage_bucket": "erazor-73960.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802249753504:android:6406d5e608feeb602a5ac5",
+        "android_client_info": {
+          "package_name": "com.example.erazor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802249753504-65u9phpenk7jcns61d3povd0o9da2ruk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.erazor",
+            "certificate_hash": "44697d66a588549df5b409482a2223da7d79be93"
+          }
+        },
+        {
+          "client_id": "802249753504-urj2f26mv8is277r0s8nt5tu8ftuucd1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc2lmZUMjeHsiI8pDUzrNlw2ziQ5lK76s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802249753504-urj2f26mv8is277r0s8nt5tu8ftuucd1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "802249753504-12r0lf64ccgufnr11o841qq5f1mk1giv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.erazor.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
